@@ -32,8 +32,7 @@ Technologies Used
 
 Setup/Installation Requirements
 To view the website,
-    • click  or
-    • copy the link https://marynganga.github.io/Restaurant-Website-Template/ paste it to your browser and load it.
+    • copy the link https://github.com/AryanVishnoi/paradise paste it to your browser and load it.
 
 How to Use
     1. Clone this repository:
